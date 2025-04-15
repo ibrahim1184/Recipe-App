@@ -62,7 +62,7 @@ Firebase tabanlı, GetX ile geliştirilmiş modern tarif uygulaması. Kullanıc�
   </table>
 </div>
 
-## 🛠️ Teknoloji Yığını
+## 🛠️ Kullanılan Teknolojiler
 
 | Bileşen          | Teknoloji                     |
 |------------------|-------------------------------|
