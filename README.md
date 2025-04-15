@@ -66,12 +66,13 @@ Firebase tabanlı, GetX ile geliştirilmiş modern tarif uygulaması. Kullanıc�
 
 | Bileşen          | Teknoloji                     |
 |------------------|-------------------------------|
-| Çatı             | Flutter 3.x                   |
+| Framework        | Flutter 3.x                   |
 | State Management | GetX                          |
 | Backend          | Firebase (Auth, Firestore)    |
 | Kimlik Doğrulama | Firebase Auth + OTP           |
 | API              | RESTful                       |
 | Depolama         | Firebase Storage              |
+| UI/UX            | Custom Animations             |
 
 ## 📦 Kurulum
 
