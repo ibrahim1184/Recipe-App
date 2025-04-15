@@ -1,7 +1,5 @@
 # 🍳 TarifDefteri - Flutter ile Yemek Tarif Uygulaması
 
-![Uygulama Banner Görseli](assets/screens/onboarding.jpeg)
-
 Firebase tabanlı, GetX ile geliştirilmiş modern tarif uygulaması. Kullanıcılar tarif paylaşabilir, keşfedebilir ve favorilerine ekleyebilir.
 
 ## ✨ Öne Çıkan Özellikler
@@ -26,9 +24,9 @@ Firebase tabanlı, GetX ile geliştirilmiş modern tarif uygulaması. Kullanıc�
 <div align="center">
   <table>
     <tr>
-      <td><img src="assets/screens/onboarding.png" width="200" alt="Hoş Geldiniz Ekranı"></td>
-      <td><img src="assets/screens/login.png" width="200" alt="OTP Giriş Ekranı"></td>
-      <td><img src="assets/screens/register.png" width="200" alt="Kayıt Ekranı"></td>
+      <td><img src="assets/screens/onboarding.jpeg" width="200" alt="Hoş Geldiniz Ekranı"></td>
+      <td><img src="assets/screens/login.jpeg" width="200" alt="OTP Giriş Ekranı"></td>
+      <td><img src="assets/screens/register.jpeg" width="200" alt="Kayıt Ekranı"></td>
     </tr>
     <tr>
       <td><i>Hoş Geldiniz</i></td>
@@ -39,9 +37,9 @@ Firebase tabanlı, GetX ile geliştirilmiş modern tarif uygulaması. Kullanıc�
 
   <table>
     <tr>
-      <td><img src="assets/screens/homepage.png" width="200" alt="Ana Sayfa"></td>
-      <td><img src="assets/screens/meal_card.png" width="200" alt="Tarif Kartı"></td>
-      <td><img src="assets/screens/meal_detail.png" width="200" alt="Tarif Detayı"></td>
+      <td><img src="assets/screens/homepage.jpeg" width="200" alt="Ana Sayfa"></td>
+      <td><img src="assets/screens/meal_card.jpeg" width="200" alt="Tarif Kartı"></td>
+      <td><img src="assets/screens/meal_detail.jpeg" width="200" alt="Tarif Detayı"></td>
     </tr>
     <tr>
       <td><i>Ana Sayfa</i></td>
@@ -52,9 +50,9 @@ Firebase tabanlı, GetX ile geliştirilmiş modern tarif uygulaması. Kullanıc�
 
   <table>
     <tr>
-      <td><img src="assets/screens/add_meal.png" width="200" alt="Tarif Ekleme"></td>
-      <td><img src="assets/screens/description.png" width="200" alt="Adım Ekleme"></td>
-      <td><img src="assets/screens/profile.png" width="200" alt="Profil"></td>
+      <td><img src="assets/screens/add_meal.jpeg" width="200" alt="Tarif Ekleme"></td>
+      <td><img src="assets/screens/description.jpeg" width="200" alt="Adım Ekleme"></td>
+      <td><img src="assets/screens/profile.jpeg" width="200" alt="Profil"></td>
     </tr>
     <tr>
       <td><i>Yeni Tarif</i></td>
