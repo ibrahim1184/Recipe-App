@@ -17,9 +17,9 @@ Firebase tabanlı modern tarif uygulaması. Kullanıcılar tarif paylaşabilir, 
 <div align="center">
   <table>
     <tr>
-      <td><img src="screens/onboarding.jpeg" width="200" alt="Hoş Geldiniz"></td>
-      <td><img src="screens/login.jpeg" width="200" alt="Giriş Yap"></td>
-      <td><img src="screens/register.jpeg" width="200" alt="Kayıt Ol"></td>
+      <td><img src="assets/screens/onboarding.jpeg" width="200" alt="Hoş Geldiniz"></td>
+      <td><img src="assets/screens/login.jpeg" width="200" alt="Giriş Yap"></td>
+      <td><img src="assets/screens/register.jpeg" width="200" alt="Kayıt Ol"></td>
     </tr>
     <tr>
       <td><i>Hoş Geldiniz Ekranı</i></td>
@@ -27,9 +27,9 @@ Firebase tabanlı modern tarif uygulaması. Kullanıcılar tarif paylaşabilir, 
       <td><i>Kayıt Ekranı</i></td>
     </tr>
     <tr>
-      <td><img src="screens/homepage.jpeg" width="200" alt="Ana Sayfa"></td>
-      <td><img src="screens/meal_card.jpeg" width="200" alt="Tarif Kartı"></td>
-      <td><img src="screens/meal_detail.jpeg" width="200" alt="Tarif Detay"></td>
+      <td><img src="assets/screens/homepage.jpeg" width="200" alt="Ana Sayfa"></td>
+      <td><img src="assets/screens/meal_card.jpeg" width="200" alt="Tarif Kartı"></td>
+      <td><img src="assets/screens/meal_detail.jpeg" width="200" alt="Tarif Detay"></td>
     </tr>
     <tr>
       <td><i>Kategorilere Göre Tarifler</i></td>
@@ -37,9 +37,9 @@ Firebase tabanlı modern tarif uygulaması. Kullanıcılar tarif paylaşabilir, 
       <td><i>Detaylı Tarif Görünümü</i></td>
     </tr>
     <tr>
-      <td><img src="screens/add_meal.jpeg" width="200" alt="Tarif Ekle"></td>
-      <td><img src="screens/description.jpeg" width="200" alt="Adım Ekleme"></td>
-      <td><img src="screens/profile.jpeg" width="200" alt="Profil"></td>
+      <td><img src="assets/screens/add_meal.jpeg" width="200" alt="Tarif Ekle"></td>
+      <td><img src="assets/screens/description.jpeg" width="200" alt="Adım Ekleme"></td>
+      <td><img src="assets/screens/profile.jpeg" width="200" alt="Profil"></td>
     </tr>
     <tr>
       <td><i>Yeni Tarif Oluştur</i></td>
